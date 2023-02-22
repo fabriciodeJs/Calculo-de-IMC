@@ -64,3 +64,6 @@ hr{
     font-weight: 500;
     
 }
+#saida > p{
+    padding-bottom: 5px;
+}
